@@ -3,13 +3,8 @@
 ###
 
 <p align="left">
-My name is Aymen and I'm an automation engineer, from Algeria.<br><br>
-I'm trying to build a better world through programming, all while having a great time!
+My name is Aymen and I'm an automation engineer, from Algeria.<br>I'm trying to build a better world through programming, all while having a great time!
 </p>
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kaymen99.kaymen99&left_text=Views"  />
-</div>
 
 ###
 
@@ -17,7 +12,7 @@ I'm trying to build a better world through programming, all while having a great
 
 ###
 
-<p align="left">✨ I'm passionate about artificial intelligence, robotics and AI automation.<br><br>📚 I'm currently learning data science and reinforcement learning for robots control.<br><br>🎯 I'm Interested in Blockchain technology and its applications.<br><br> 💬 Ask me anything about: python, AI algorithms, blockchain development <br><br>📫 Connect with me: aymenMir1001@gmail.com<br></p>
+<p align="left">✨ I'm passionate about artificial intelligence, robotics and AI automation.<br><br>📚 I'm currently learning AI agents, Langchain & LLMs.<br><br>🎯 I'm Interested in Blockchain technology and its applications.<br><br> 💬 Ask me anything about: python, AI algorithms, blockchain development <br><br>📫 Connect with me: aymenMir1001@gmail.com<br></p>
 
 <h2>AI Research and Projects 🤖</h2>
 <ul>   
